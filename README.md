@@ -1,4 +1,5 @@
-# Simple application that applies Butterworth, Gaussian & Ideal kernels on HPF and LPFs -aka Frequency Domain Filtering- 
+# Simple application that applies Butterworth, Gaussian & Ideal kernels on HPF and LPFs 
+-aka Frequency Domain Filtering- 
 Upload image from sidebar, set the parameters and it will return the image, kernel and the graph of distance (D(u,v)) against the filter function (H(u,v)).
 
 # To run the project: 
